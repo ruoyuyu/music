@@ -1,0 +1,85 @@
+{
+  "ret": true,
+  "data":{
+    "singerInfo": {
+      "singer": "薛之谦",
+      "imgUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000002J4UUk29y8BY.jpg?max_age=2592000"
+    },
+    "musicInfo": [{
+      "id": "0001",
+      "name": "像风一样",
+      "mid": "001uxKNp3a7Qkv",
+      "album": "渡 The Crossing"
+    }, {
+      "id": "0002",
+      "name": "别",
+      "mid": "001uxKNp3a7Qkv",
+      "album": "绅士"
+    }, {
+      "id": "0003",
+      "name": "像风一样",
+      "mid": "003uIckZ4ZP87A",
+      "album": "渡 The Crossing"
+    }, {
+      "id": "0004",
+      "name": "骆驼",
+      "mid": "002s96Ny4dZIU1",
+      "album": "渡 The Crossing"
+    }, {
+      "id": "0005",
+      "name": "暧昧",
+      "mid": "003v4UL61IYlTY",
+      "album": "渡 The Crossing"
+    }, {
+      "id": "0006",
+      "name": "天后",
+      "mid": "001uxKNp3a7Qkv",
+      "album": "蒙面唱将猜猜猜第二季"
+    }, {
+      "id": "0007",
+      "name": "初学者",
+      "mid": "000dcZ9I1nzO62",
+      "album": "《我与你的光年距离》网络剧主题曲"
+    }, {
+      "id": "0008",
+      "name": "像风一样",
+      "mid": "001uxKNp3a7Qkv",
+      "album": "渡 The Crossing"
+    }, {
+      "id": "0009",
+      "name": "刚刚好",
+      "mid": "001TXSYu1Gwuwv",
+      "album": "《我与你的光年距离》网络剧主题曲"
+    }, {
+      "id": "0010",
+      "name": "丑八怪",
+      "mid": "000QwTVo0YHdcP",
+      "album": "意外"
+    }, {
+      "id": "0011",
+      "name": "像风一样",
+      "mid": "001uxKNp3a7Qkv",
+      "album": "渡 The Crossing"
+    }, {
+      "id": "0012",
+      "name": "渡",
+      "mid": "001uxKNp3a7Qkv",
+      "album": "渡 The Crossing"
+    }, {
+      "id": "0013",
+      "name": "背过手",
+      "mid": "001uxKNp3a7Qkv",
+      "album": "渡 The Crossing"
+    }, {
+      "id": "0014",
+      "name": "意外",
+      "mid": "001uxKNp3a7Qkv",
+      "album": "《如果我爱你》电视剧插曲"
+    }, {
+      "id": "0015",
+      "name": "绅士",
+      "mid": "001uxKNp3a7Qkv",
+      "album": "《是！尚先生》电视剧插曲"
+    }]
+  }
+}

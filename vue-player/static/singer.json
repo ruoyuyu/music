@@ -1,0 +1,127 @@
+{
+  "ret": true,
+  "data": {
+    "list": {
+      "A": [{
+        "en_name": "Alan Walker",
+        "cn_name": "艾伦·沃克",
+        "picUrl": "https://p.qpic.cn/music_cover/ibSiagqKjw1zfTgxY7F8CfEyia1vAXmXE1PuCnYcISCPKvHxqiadAewlVg/300?n=1",
+        "id": 5
+      }, {
+        "en_name": "A-Lin",
+        "cn_name": "黄丽玲",
+        "picUrl": "https://p.qpic.cn/music_cover/JBDCVgqXWXaYUvcsElqcicebsUNnzHjtwmb5zib2CBtnaP8YQjJsYhicg/300?n=1",
+        "id": 6
+      }, {
+        "en_name": "Adele",
+        "cn_name": "阿黛尔",
+        "picUrl": "https://p.qpic.cn/music_cover/e8Jvd83AZrRbhqofb1ES4KTibu2megslRBU0hvpvUiaiaicIuKmSdE4VGg/300?n=1",
+        "id": 7
+      }, {
+        "en_name": "Avril Lavigne",
+        "cn_name": "艾薇儿·拉维尼",
+        "picUrl": "https://p.qpic.cn/music_cover/r9Js18hQauaHlf3udYvKso8dk5YSRffuvyasq8xwOuA8mwpm289iaibw/300?n=1",
+        "id": 8
+      }],
+      "B": [{
+        "en_name": "Britney Spears",
+        "cn_name": "布兰妮·斯皮尔斯",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000002J4UUk29y8BY.jpg?max_age=2592000",
+        "id": 9
+      },{
+        "en_name": "Backstreet Boys",
+        "cn_name": "后街男孩",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M0000025NhlN2yWrP4.jpg?max_age=2592000",
+        "id": 10
+      },{
+        "en_name": "Around the World in 80 Days",
+        "cn_name": "八十天环游地球",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000004AlfUb0cVkN1.jpg?max_age=2592000",
+        "id": 11
+      },{
+        "en_name": "jingcheng bai",
+        "cn_name": "白静晨",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000003Nz2So3XXYek.jpg?max_age=2592000",
+        "id": 12
+      },{
+        "en_name": "Britney Spears",
+        "cn_name": "布兰妮·斯皮尔斯",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000001BLpXF2DyJe2.jpg?max_age=2592000",
+        "id": 13
+      }],
+      "C":[{
+        "en_name": "Eason Chan",
+        "cn_name": "陈奕迅",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000004eTCF03KvBOE.jpg?max_age=2592000",
+        "id": 1
+      }, {
+        "en_name": "Jordan Chan",
+        "cn_name": "陈小春",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000000WvhDw0ciqdg.jpg?max_age=2592000",
+        "id": 2
+      }, {
+        "en_name": "Charlie Puth",
+        "cn_name": "查理·普斯",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000002Emc4e1ThiNZ.jpg?max_age=2592000",
+        "id": 3
+      }, {
+        "en_name": "Sean Chen",
+        "cn_name": "陈翔",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000001Bq9sV19KmFD.jpg?max_age=2592000",
+        "id": 4
+      }],
+      "E":[{
+        "en_name": "Ellie Gouldin",
+        "cn_name": "Ellie Gouldin",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000003xi10A1l7zjv.jpg?max_age=2592000",
+        "id": 14
+      }, {
+        "en_name": "Eminem",
+        "cn_name": "Eminem",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M0000022VtZd19rZpi.jpg?max_age=2592000",
+        "id": 15
+      }, {
+        "en_name": "Ed Sheeran",
+        "cn_name": "Ed Sheeran",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000001Ic36m4AhaBw.jpg?max_age=2592000",
+        "id": 16
+      }, {
+        "en_name": "EXO-M",
+        "cn_name": "EXO-M",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000003CoxJh1zFPpx.jpg?max_age=2592000",
+        "id": 17
+      },{
+        "en_name": "EGOIST",
+        "cn_name": "EGOIST",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000003ArN8Z0WpjTz.jpg?max_age=2592000",
+        "id": 18
+      }],
+      "D":[{
+        "en_name": "Lijun Deng",
+        "cn_name": "邓丽君",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000000CK5xN3yZDJt.jpg?max_age=2592000",
+        "id": 14
+      }, {
+        "en_name": "Dao lang",
+        "cn_name": "刀郎",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000001JuGrt372YIQ.jpg?max_age=2592000",
+        "id": 15
+      }, {
+        "en_name": "Charlie Puth",
+        "cn_name": "戴荃",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000000zmpju02bEBm.jpg?max_age=2592000",
+        "id": 16
+      }, {
+        "en_name": "Sean Chen",
+        "cn_name": "邓超",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M000000aHmbL2aPXWH.jpg?max_age=2592000",
+        "id": 17
+      },{
+        "en_name": "Sean Chen",
+        "cn_name": "大张伟",
+        "picUrl": "//y.gtimg.cn/music/photo_new/T001R300x300M0000020PeOh4ZaCw1.jpg?max_age=2592000",
+        "id": 18
+      }]
+    }
+  }
+}

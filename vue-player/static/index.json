@@ -1,0 +1,75 @@
+{
+    "code": 0,
+    "data": {
+        "slider": [
+            {
+                "linkUrl": "https://y.qq.com/m/digitalbum/gold/index.html?_video=true&id=3751508&g_f=shoujijiaodian",
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R720x288M000002z8Lbj3UmMDb.jpg",
+                "id": 13303
+            },
+            {
+                "linkUrl": "http://y.qq.com/w/album.html?albummid=002K1Euv1vaRO8",
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R720x288M000002iDhPo41S748.jpg",
+                "id": 13334
+            },
+            {
+                "linkUrl": "https://y.qq.com/m/digitalbum/gold/index.html?_video=true&id=3752675&g_f=shoujijiaodian",
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R720x288M0000043aP8O33dLDO.jpg",
+                "id": 13329
+            },
+            {
+                "linkUrl": "https://y.qq.com/m/act/mixnine/v3/index.html?ADTAG=jiaodiantu",
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R720x288M000001NeOoi4VRkUD.jpg",
+                "id": 13310
+            },
+            {
+                "linkUrl": "http://y.qq.com/m/act/sfhd/111.html?ADTAG=banner",
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R720x288M000000D21eo0sOMWH.jpg",
+                "id": 13323
+            }
+        ],
+        "list": [
+          {
+            "id": 0,
+            "title": "你那么爱他",
+            "desc": "每日新歌：绵羊回归，献唱暖暖圣诞歌",
+            "picUrl": "//y.gtimg.cn/music/photo_new/T002R150x150M000002j105c0rmyV5.jpg?max_age=2592000"
+          }, {
+            "id": 1,
+            "title": "玫瑰王",
+            "desc": "伤感华语 ：连歌词都能写到一个人的心里",
+            "picUrl": "//y.gtimg.cn/music/photo_new/T002R300x300M0000005QZ1P0Zm6Gy.jpg?max_age=2592000"
+          }, {
+            "id": 2,
+            "title": "念葳蕊",
+            "desc": "从你离开以后，我再也不敢轻易去听这首歌",
+            "picUrl": "//y.gtimg.cn/music/photo_new/T002R300x300M000000njDzi3MBLNw.jpg?max_age=2592000"
+          }, {
+            "id": 3,
+            "title": "你那么爱他",
+            "desc": "听歌测年龄！单曲循环过的都别装嫩了",
+            "picUrl": "//y.gtimg.cn/music/photo_new/T002R300x300M000000bPfVz29yAij.jpg?max_age=2592000"
+          }, {
+            "id": 4,
+            "title": "你那么爱他",
+            "desc": "多少次的止于唇齿才换来一句好久不见",
+            "picUrl": "//y.gtimg.cn/music/photo_new/T002R300x300M000004E8zBj1CXbR1.jpg?max_age=2592000"
+          }, {
+            "id": 5,
+            "title": "SODA",
+            "desc": "涨知识：那些以提琴为前奏的韩语歌",
+            "picUrl": "//y.gtimg.cn/music/photo_new/T002R300x300M0000012qOj02yhfmt.jpg?max_age=2592000"
+          }, {
+            "id": 6,
+            "title": "你那么爱他",
+            "desc": "古韵妙音300首：让心穿越到古风世界",
+            "picUrl": "//y.gtimg.cn/music/photo_new/T002R300x300M000002h29Ub3HAYkN.jpg?max_age=2592000"
+          }, {
+            "id": 7,
+            "title": "你那么爱他",
+            "desc": "诗和远方！我把思绪写在民谣里",
+            "picUrl": "//y.gtimg.cn/music/photo_new/T002R300x300M000003yBJUd4VPwh7.jpg?max_age=2592000"
+          }
+        ]
+    }
+}
